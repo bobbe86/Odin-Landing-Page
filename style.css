@@ -171,12 +171,15 @@ figure {
 }
 
 blockquote {
+    width: 70%;
+    margin: 0 auto;
     padding: 8rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: xx-large;
     font-weight: lighter;
     font-style: italic;
     color: #1F2937;
+    border-radius: 10px;
     background-color: #E5E7EB;
 }
 
@@ -185,7 +188,7 @@ blockquote {
     justify-content: center;
     align-items: center;
     gap: 2rem;
-    width: 80%;
+    width: 50%;
     margin: 4rem auto;
     padding: 2rem 0;
     text-align: center;
